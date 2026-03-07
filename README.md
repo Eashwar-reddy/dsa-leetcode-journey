@@ -57,3 +57,15 @@ Consistency over intensity.
 Solving problems daily to improve algorithmic thinking and coding speed.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
+<!---LeetCode Topics End-->
