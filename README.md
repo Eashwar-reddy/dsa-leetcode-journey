@@ -63,9 +63,26 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
