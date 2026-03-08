@@ -69,6 +69,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0316-remove-duplicate-letters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0402-remove-k-digits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,4 +127,12 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+## Hash Table
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
