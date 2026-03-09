@@ -90,6 +90,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0045-jump-game-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -149,4 +150,8 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
