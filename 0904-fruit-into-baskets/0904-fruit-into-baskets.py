@@ -10,7 +10,7 @@ class Solution(object):
         while(r<n):
             hm[fruits[r]]+=1
             max_len+=1
-            while(len(hm)>2):
+            if(len(hm)>2):
                 hm[fruits[l]]-=1
                 max_len-=1
                 if(hm[fruits[l]]==0):
