@@ -118,12 +118,14 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0032-longest-valid-parentheses](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0402-remove-k-digits) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Matrix
 |  |
@@ -136,6 +138,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Hash Table
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
