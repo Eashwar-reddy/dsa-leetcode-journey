@@ -10,7 +10,7 @@ class Solution(object):
         while(r<n):
             hm[s[r]]+=1
             max_freq=max(max_freq,hm[s[r]])
-            while(r-l+1-max_freq>k):
+            if(r-l+1-max_freq>k):
                 max_freq=0
                 hm[s[l]]-=1
                 if(hm[s[l]]==0):
