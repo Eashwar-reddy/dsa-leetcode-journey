@@ -181,4 +181,8 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
