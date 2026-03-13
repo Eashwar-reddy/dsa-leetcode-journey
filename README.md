@@ -90,6 +90,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0316-remove-duplicate-letters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
