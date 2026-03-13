@@ -151,6 +151,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0441-arranging-coins](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
@@ -196,6 +197,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
