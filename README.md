@@ -127,6 +127,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0032-longest-valid-parentheses) |
@@ -143,6 +144,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0904-fruit-into-baskets) |
@@ -162,6 +164,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
