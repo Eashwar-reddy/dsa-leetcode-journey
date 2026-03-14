@@ -63,6 +63,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
@@ -202,6 +203,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
