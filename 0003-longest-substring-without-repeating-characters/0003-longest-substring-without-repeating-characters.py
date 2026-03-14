@@ -1,15 +1,18 @@
 from collections import defaultdict
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
-        length=0
-        pos=defaultdict(int)
-        start=0
-        for end in range(len(s)):
-            ch=s[end]
-            if(pos[ch]>0 and pos[ch]-1>= start):
-                start=pos[ch]       
-            pos[ch]=end+1 
-            length=max(length,end-start+1)
-        return length
+        res=0
+        seen=set()
+        l=0
+        r=0
+        while(r<len(s)):
+            if(s[r] in seen):
+                while(s[r] in seen):
+                   seen.discard(s[l])
+                   l+=1
+            seen.add(s[r])
+            res=max(res,len(seen))
+            r+=1
+        return res
 
         
