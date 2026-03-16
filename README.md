@@ -76,6 +76,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0523-continuous-subarray-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -216,6 +217,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0441-arranging-coins) |
+| [0875-koko-eating-bananas](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
