@@ -67,6 +67,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
@@ -227,6 +228,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
