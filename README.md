@@ -68,6 +68,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0045-jump-game-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
@@ -184,6 +185,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 ## Queue
 |  |
@@ -223,6 +225,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0078-subsets) |
 | [1009-complement-of-base-10-integer](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1009-complement-of-base-10-integer) |
 ## Sorting
 |  |
