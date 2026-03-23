@@ -64,6 +64,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
@@ -186,6 +187,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0090-subsets-ii) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
