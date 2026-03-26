@@ -91,6 +91,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0918-maximum-sum-circular-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
@@ -238,6 +239,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0540-single-element-in-a-sorted-array](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
