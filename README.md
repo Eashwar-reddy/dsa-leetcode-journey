@@ -95,6 +95,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
@@ -246,6 +247,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0242-valid-anagram) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 ## String Matching
 |  |
 | ------- |
