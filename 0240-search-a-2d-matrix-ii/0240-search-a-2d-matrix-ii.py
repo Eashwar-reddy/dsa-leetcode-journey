@@ -6,9 +6,9 @@ class Solution(object):
         col=m-1
         while(row<n and col>=0):
             if(matrix[row][col]==target):
-                return 1
+                return True
             elif(matrix[row][col]>target):
                 col-=1
             else:
                 row+=1
-        return 0
+        return False
