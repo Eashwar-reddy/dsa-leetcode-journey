@@ -71,6 +71,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0046-permutations](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
@@ -177,6 +178,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 ## Math
 |  |
@@ -241,6 +243,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0410-split-array-largest-sum) |
