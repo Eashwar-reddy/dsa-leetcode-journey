@@ -79,6 +79,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0090-subsets-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0239-sliding-window-maximum) |
@@ -126,6 +127,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
