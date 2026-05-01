@@ -80,6 +80,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0238-product-of-array-except-self](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0410-split-array-largest-sum) |
@@ -229,6 +230,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0525-contiguous-array) |
