@@ -168,6 +168,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0402-remove-k-digits](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0443-string-compression) |
+| [0784-letter-case-permutation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0784-letter-case-permutation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
@@ -219,6 +220,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0047-permutations-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0784-letter-case-permutation) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 ## Queue
 |  |
@@ -274,6 +276,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | ------- |
 | [0078-subsets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0784-letter-case-permutation) |
 | [1009-complement-of-base-10-integer](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1009-complement-of-base-10-integer) |
 ## Sorting
 |  |
