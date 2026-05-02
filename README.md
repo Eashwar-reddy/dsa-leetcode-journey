@@ -73,6 +73,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -131,6 +132,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0032-longest-valid-parentheses](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0322-coin-change) |
@@ -191,6 +193,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
