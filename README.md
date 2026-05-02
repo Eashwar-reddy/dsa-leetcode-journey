@@ -80,6 +80,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0084-largest-rectangle-in-histogram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0152-maximum-product-subarray) |
@@ -134,6 +135,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0045-jump-game-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0410-split-array-largest-sum) |
