@@ -141,6 +141,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0410-split-array-largest-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -178,6 +179,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0424-longest-repeating-character-replacement](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0443-string-compression) |
 | [0784-letter-case-permutation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0784-letter-case-permutation) |
+| [1143-longest-common-subsequence](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
