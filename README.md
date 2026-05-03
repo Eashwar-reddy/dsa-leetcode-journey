@@ -319,6 +319,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
 ## Union-Find
@@ -334,8 +335,10 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
