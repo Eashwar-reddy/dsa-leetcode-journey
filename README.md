@@ -85,6 +85,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -200,6 +201,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0063-unique-paths-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -307,15 +309,18 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
