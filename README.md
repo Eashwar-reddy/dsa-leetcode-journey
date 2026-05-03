@@ -101,6 +101,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0875-koko-eating-bananas](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
@@ -203,6 +204,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -312,6 +314,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0200-number-of-islands](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
