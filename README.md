@@ -308,4 +308,17 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
