@@ -354,4 +354,12 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
