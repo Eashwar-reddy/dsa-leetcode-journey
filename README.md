@@ -110,6 +110,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
@@ -128,6 +129,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0904-fruit-into-baskets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -306,6 +309,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0242-valid-anagram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0242-valid-anagram) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String Matching
 |  |
 | ------- |
