@@ -369,6 +369,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0176-second-highest-salary](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
