@@ -368,4 +368,5 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0175-combine-two-tables](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0177-nth-highest-salary) |
+| [0595-big-countries](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
