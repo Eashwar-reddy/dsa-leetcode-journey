@@ -357,10 +357,12 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
