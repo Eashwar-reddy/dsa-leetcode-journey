@@ -252,6 +252,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -273,6 +274,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
@@ -358,6 +360,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -374,4 +377,8 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0197-rising-temperature](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0619-biggest-single-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
