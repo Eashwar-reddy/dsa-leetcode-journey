@@ -106,6 +106,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1539-kth-missing-positive-number) |
@@ -160,6 +161,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0402-remove-k-digits) |
+| [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -362,6 +364,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0021-merge-two-sorted-lists](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0206-reverse-linked-list) |
+| [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -381,4 +384,16 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
