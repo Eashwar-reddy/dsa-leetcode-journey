@@ -180,6 +180,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0032-longest-valid-parentheses](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0402-remove-k-digits) |
@@ -222,6 +223,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0523-continuous-subarray-sum) |
@@ -387,6 +389,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -396,4 +399,8 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
