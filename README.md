@@ -181,6 +181,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0402-remove-k-digits) |
@@ -335,6 +336,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
 ## Union-Find
@@ -390,6 +392,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -403,4 +406,5 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
