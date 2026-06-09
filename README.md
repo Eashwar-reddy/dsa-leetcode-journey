@@ -114,6 +114,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [1552-magnetic-force-between-two-balls](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -239,6 +241,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -412,6 +415,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0139-word-break](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
