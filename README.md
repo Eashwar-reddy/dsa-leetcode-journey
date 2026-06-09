@@ -82,6 +82,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0090-subsets-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -142,6 +143,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0063-unique-paths-ii](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0410-split-array-largest-sum) |
@@ -180,6 +182,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0032-longest-valid-parentheses](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0242-valid-anagram) |
@@ -224,6 +227,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -405,6 +409,11 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
