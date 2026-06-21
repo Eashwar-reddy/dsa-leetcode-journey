@@ -6,10 +6,17 @@
 #         self.right = right
 class Solution(object):
     def isValidBST(self, root):
-        return self.check(root,float("-inf"),float("inf"))
-    def check(self,root,li,ui):
-        if(root==None):
-            return True
-        if(root.val<=li or root.val>=ui):
-            return False
-        return ((self.check(root.left,li,root.val) and self.check(root.right,root.val,ui)))
+        nums=[]
+        def inorder(root):
+            if(root==None):
+                return
+            inorder(root.left)
+            nums.append(root.val)
+            inorder(root.right)
+        inorder(root)
+        for i in range(1,len(nums)):
+            if(nums[i]>nums[i-1]):
+                continue
+            else:
+                return False
+        return True
