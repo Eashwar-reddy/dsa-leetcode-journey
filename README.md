@@ -132,6 +132,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0042-trapping-rain-water](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0443-string-compression) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -237,6 +238,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0523-continuous-subarray-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -337,6 +339,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0200-number-of-islands](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
@@ -349,6 +352,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Union-Find
 |  |
 | ------- |
@@ -369,6 +373,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -382,6 +387,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
@@ -443,6 +449,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0173-binary-search-tree-iterator](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Iterator
