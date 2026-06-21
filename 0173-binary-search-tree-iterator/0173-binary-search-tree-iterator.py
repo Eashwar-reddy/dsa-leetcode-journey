@@ -7,28 +7,29 @@
 class BSTIterator(object):
 
     def __init__(self, root):
-        self.arr=[]
+        self.stack=[]
         temp=root
-        def inorder(root):
-            if(root!=None):
-                inorder(root.left)
-                self.arr.append(root.val)
-                inorder(root.right)
-        inorder(temp)
-        self.i=-1
-        self.n=len(self.arr)
+        while(temp!=None):
+            self.stack.append(temp)
+            temp=temp.left
+        #print(stack)
+
     def next(self):
-        self.i+=1
-        if(self.i<self.n):
-            return self.arr[self.i]
-        else:
-            return None
+        node=self.stack[-1]
+        ans=node.val
+        self.stack.pop()
+        if(node.right!=None):
+            temp=node.right
+            while(temp!=None):
+                self.stack.append(temp)
+                temp=temp.left
+        return ans
+        
 
     def hasNext(self):
-        if(self.i+1<self.n):
+        if(self.stack!=[]):
             return True
-        else:
-            return False
+        return False
 
 
 # Your BSTIterator object will be instantiated and called as such:
