@@ -362,6 +362,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -371,6 +372,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
@@ -427,6 +429,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
