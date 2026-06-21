@@ -162,6 +162,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0084-largest-rectangle-in-histogram](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0402-remove-k-digits) |
 | [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
@@ -364,6 +365,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0102-binary-tree-level-order-traversal](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0450-delete-node-in-a-bst) |
@@ -376,6 +378,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0102-binary-tree-level-order-traversal](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0450-delete-node-in-a-bst) |
@@ -410,6 +413,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1472-design-browser-history](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1472-design-browser-history) |
@@ -436,8 +440,13 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0701-insert-into-a-binary-search-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
