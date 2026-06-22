@@ -195,6 +195,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0443-string-compression](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0443-string-compression) |
 | [0784-letter-case-permutation](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0784-letter-case-permutation) |
 | [1143-longest-common-subsequence](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
@@ -240,6 +241,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0560-subarray-sum-equals-k](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -460,4 +462,8 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
