@@ -115,6 +115,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1980-find-unique-binary-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3115-maximum-prime-difference](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3115-maximum-prime-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 | [0441-arranging-coins](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [3115-maximum-prime-difference](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3115-maximum-prime-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -466,4 +468,8 @@ Solving problems daily to improve algorithmic thinking and coding speed.
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
+## Number Theory
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/Eashwar-reddy/dsa-leetcode-journey/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
